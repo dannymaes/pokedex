@@ -3,4 +3,4 @@
 Oefening FlexBox
 
 
-https://dannymaes.github.io/pokedex/pokedex.html
+ https://dannymaes.github.io/pokedex/pokedex.html
